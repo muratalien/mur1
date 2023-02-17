@@ -1,0 +1,19 @@
+.card-container {
+  background-color: white;
+  border: rgba(0, 128, 0, 0.384) ridge 6px;
+  border-radius: 15px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+.card-container .url {
+  -webkit-clip-path: circle(50% at 50% 50%);
+          clip-path: circle(50% at 50% 50%);
+}
+.card-container p {
+  color: grey;
+  font-size: large;
+}
+.card-container i {
+  padding: 10px;
+}/*# sourceMappingURL=main.css.map */
